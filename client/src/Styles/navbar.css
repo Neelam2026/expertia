@@ -1,0 +1,30 @@
+#box{
+    height:70px;
+    position:fixed ;
+    border:1px solid rgb(71, 65, 65) ;
+    width:100%;
+    background:rgb(12, 70, 70);
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+#box>h1{
+color: white;
+margin-left: 2%;
+}
+.linkDiv{
+    width: 20%;
+    margin-top: 1.2%;
+}
+.link{
+    color: white;
+    text-decoration: none;
+    padding: 6%;
+  
+}
+.link:hover{
+    font-size: large;
+    color: rgb(233, 36, 36);
+}
+

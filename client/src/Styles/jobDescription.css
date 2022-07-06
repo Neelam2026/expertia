@@ -1,0 +1,32 @@
+.user_details{
+    border: 1px solid rgb(159, 149, 149);
+    height: 800px;
+    padding: 2%;
+    background-color: rgb(206, 215, 226);
+    padding-bottom: 10%;
+}
+.box{
+    width: 50%;
+    border: 5px solid rgb(165, 156, 156);
+    padding: 5%;
+    margin-left: 23%;
+    color: white;
+    background-color: rgb(12, 70, 70);
+    
+    box-shadow: rgba(145, 145, 234, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+p{
+  font-size: larger;
+  font-weight: 600;
+  color: rgb(109, 162, 121);
+
+}
+.button4{
+width: 50%;
+margin-left:23%;
+padding: .5%;
+background-color: rgb(23, 22, 22);
+color: aliceblue;
+margin-bottom: 6%;
+
+}

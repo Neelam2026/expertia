@@ -1,0 +1,99 @@
+.Container{
+padding-top: 6%;
+
+}
+input{
+    width:78%;
+    background-color: rgb(215, 224, 221);
+}
+.searchbtn{
+    background-color: rgb(60, 56, 56);
+    color: white;
+    width: 20%;
+   
+}
+.barDiv{
+    display:flex;
+    width: 100%;
+  
+}
+.div1{
+   width: 30%;
+   margin-left: 3%;
+  
+  
+   
+}
+.div2{
+    width: 10%;
+    margin-left: 40%;
+   
+    
+ }
+ .div2>select ,.div3>select{
+    background-color: rgb(60, 56, 56);
+    color:white;
+    padding: 2%;
+    border-radius: 10px;
+   
+ }
+ .div3{
+    width: 10%;
+  
+}
+#job_Box{
+    width: 60%;
+    margin-left: 10%;
+    
+   
+}
+#single_job{
+    border: 1px solid rgb(159, 149, 149);
+    margin: 1%; 
+    padding: 2%;
+    background-color: rgb(206, 215, 226)
+    
+    
+    ;
+}
+.detail{
+   
+    box-shadow: rgba(145, 145, 234, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    height: 280px;
+    padding: 4%;
+}
+.paginationbtn{
+    height: 30px;
+    background-color:rgb(12, 70, 70);
+   padding: 1%;
+ padding-bottom: 3%;
+   margin-bottom: 1%;
+  
+}
+.button1{
+    background-color: rgb(60, 56, 56);
+    color:white;
+    width: 10%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+    margin-left: 70%;
+}
+.button2{
+    background-color: rgb(60, 56, 56);
+    color:white;
+    width: 10%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+    margin-left: 1%;
+}
+h3{
+    background-color: rgb(72, 68, 68);
+    padding: 1%; 
+ 
+ 
+}
+p{
+  color: black;
+ 
+ font-size: large;
+}
